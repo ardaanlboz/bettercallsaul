@@ -1,0 +1,7 @@
+{
+    "name": "exampletutor",
+    "email": "exampletutorgmail@gmail",
+    "password": "pas12123312",
+    "expertise": ["Gym", "Business", "Physics"]
+    
+}
